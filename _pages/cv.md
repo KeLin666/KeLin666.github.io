@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "[CV](https://kelin666.github.io/files/Ke%20Lin-CV.pdf)"
 permalink: /cv/
 author_profile: true
 redirect_from:
