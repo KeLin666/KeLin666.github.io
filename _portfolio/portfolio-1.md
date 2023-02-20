@@ -4,4 +4,4 @@ excerpt: "Register as a Junior student in Department of Physics, Spring 2023 <br
 collection: portfolio
 ---
 
-My first to go aboard. Some photoes taken during the trip.
+It's my first time abroad. Some photos taken during the trip.
