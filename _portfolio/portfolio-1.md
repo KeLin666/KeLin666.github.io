@@ -6,7 +6,7 @@ collection: portfolio
 
 It's my first time abroad. Some photos taken during the trip.
 
-**Fly over canada. Whiter than whiter**
+**Fly over Canada. Whiter than whiter.**
 
 ![Fly over canada. Whiter than whiter](/images/Iceland.jpg)
 
