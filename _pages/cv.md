@@ -8,7 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+
 [CV](https://kelin666.github.io/files/Ke%20Lin-CV.pdf)
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
