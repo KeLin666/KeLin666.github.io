@@ -10,7 +10,7 @@ redirect_from:
 
 Hi, this is Ke Lin (Chinese: 林柯, PinYin: Lín Kē, Pronounce: Clean). I am a junior student in Department of Physics, Shanghai Jiao Tong University (SJTU).
 
-From Apr 2020 to Sept 2021, I work as the team leader of representative team of Shanghai Jiao Tong University, participated in the China Undergraduate Physics Competition (CUPT, IYPT in China). We got First Prize in the final defense of our experiment result, this is the first time our school had got this prize since attending this competition.
+From Apr 2020 to Sept 2021, I work as the team leader of representative team of Shanghai Jiao Tong University, participated in the China Undergraduate Physics Competition (CUPT, IYPT in China). We got First Prize in the final defense of our experiment result, this is the first time our school had got this prize since attending this competition. [Here](https://github.com/KeLin666/KeLin666.github.io/blob/master/files/2-Circling%20Magnet.pdf) is a brief introduction to our research.
 
 From Sept 2021 to now, I work as a part-time undergraduate researcher in [Prof. Fangwei Ye's Group](https://www.physics.sjtu.edu.cn/jsml/yefangwei.html). My research topic are 3-Dimensional Branched Flow and Nonlinear Branched Flow.
 
@@ -20,6 +20,7 @@ In Summer 2023, I will visit Harvard and work as a full-time internship research
 
 My research interests lie in the following four parts: Branched Flow, Novel state in Factal system, Non-Hermitian Topological Physics in Photonics.
 
+Feel free to contact me if you have any question about my research. Although I am an undergraduate student, I am very happy to discuss the above research with you！
 
 
 Branched Flow
