@@ -13,30 +13,33 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* High School Wenzhou High School, Zhe Jiang, 2017-2020
+* B.S. Department of Physics, Shanghai Jiao Tong University, 2020-2024
+* Exchange student Department of Physics, Massachusetts Institute of Technology, 2023
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Mar 2023 to now
+  * Harvard University
+  * Research Topic: Experimental realization of Branched Flow, study of Bragg scattering
+  * Supervisor: Professor Eric Heller
+
+* Sept 2021 to now: Part-time undergraduate researcher
+  * Shanghai Jiao Tong University
+  * Research Topic: Branched Flow
+  * Supervisor: Professor Fangwei Ye
+
+* Apr 2020 to Sept 2021: Team leader of representative team of Shanghai Jiao Tong University, participated in the China Undergraduate Physics Competition (CUPT, IYPT in China)
+  * Shanghai Jiao Tong University
+  * Duties included: Experiment on three certain topics in physics, Scheduling the progress of our group experiment
+  * Supervisor: Professor Wei Pan
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Matlab
+* Mathematica
+* Python
 
 Publications
 ======
