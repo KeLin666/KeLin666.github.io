@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my homepage"
+title: "Welcome to my homepage!!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,7 +12,7 @@ Hi, this is Ke Lin (Chinese: 林柯, PinYin: Lín Kē, Pronounce: Clean). I am a
 
 From Apr 2020 to Sept 2021, I work as the team leader of representative team of Shanghai Jiao Tong University, participated in the China Undergraduate Physics Competition (CUPT, IYPT in China). We got First Prize in the final defense of our experiment result, this is the first time our school had got this prize since attending this competition.
 
-From Sept 2021 to now, I work as a part-time undergraduate researcher in Prof.Fangwei Ye's Group. My research topic is 3-Dimensional Branched Flow and Nonlinear Branched Flow.
+From Sept 2021 to now, I work as a part-time undergraduate researcher in [Prof. Fangwei Ye's Group](https://www.physics.sjtu.edu.cn/jsml/yefangwei.html). My research topic are 3-Dimensional Branched Flow and Nonlinear Branched Flow.
 
 From Jan 2023 to now, I am an exchange student at Massachusetts Institute of Technology (MIT). I select the following class, 8.292[J] Fluid Physics, 8.422 Atomic and Optical Physics II, 8.431[J] Nonlinear Optics.
 
@@ -22,7 +22,7 @@ My research interests lie in the following four parts: Branched Flow, Novel stat
 
 
 
-A data-driven personal website
+Branched Flow
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
