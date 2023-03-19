@@ -22,8 +22,15 @@ My research interests lie in the following four parts: Branched Flow, Novel stat
 
 Feel free to contact me if you have any question about my research. Although I am an undergraduate student, I am very happy to discuss the above research with you！
 
+Selected Awards
+======
 
-Branched Flow
+Rongchang Scholarship of Science Innovation (Best 10 undergraduates in SJTU, CNY30,000) ,2022
+National Scholarship, SJTU, 2021
+1st Prize in China Undergraduate Physics academic Tournament (CUPT) First time for SJTU, 2021
+
+
+Research Interests
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
