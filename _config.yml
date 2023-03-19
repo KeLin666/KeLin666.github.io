@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ke Lin / Site Title"
+title                    : "Ke Lin / My Homepage"
 title_separator          : "-"
 name                     : &name "Ke Lin"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ke Lin(林柯)"
-  avatar           : "profile.png"
+  avatar           : "草坪.jpg"
   bio              : "Math & Physics"
   location         : "Boston, MA"
   employer         :
