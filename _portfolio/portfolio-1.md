@@ -23,3 +23,13 @@ Post Wall
 
 Chinatown
 ![ChinaTown](/images/ChinaTown.jpg)
+
+**First Snow at MIT**
+
+McLaurin Building
+![McLaurin Building](/images/Snow.jpg)
+
+Pavilion along the Charles river
+![Pavilion along the Charles river](/images/pavilion.jpg)
+
+
