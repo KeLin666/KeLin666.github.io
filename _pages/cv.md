@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[CV](https://kelin666.github.io/files/Ke%20Lin-CV.pdf)
+[Curriculum Vitae(PDF)](https://kelin666.github.io/files/Ke%20Lin-CV.pdf)
 
 Education
 ======
@@ -37,9 +37,14 @@ Work experience
   
 Skills
 ======
+
+Software & Coding
 * Matlab
 * Mathematica
 * Python
+* COMSOL
+* C/C++
+
 
 Publications
 ======
@@ -61,4 +66,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* President of the Student Union, Zhiyuan College, SJTU
+* Volunteer in the 2021/2022 Graduation Ceremony in Zhiyuan College
+
