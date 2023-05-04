@@ -22,6 +22,18 @@ My research interests lie in the following four parts: Branched Flow, Novel stat
 
 Feel free to contact me if you have any question about my research. Although I am an undergraduate student, I am very happy to discuss the above research with you！
 
+
+Publication
+======
+(\*: Equal Contribution)
+
+⦁ K. Lin, Z. Y. Liu, J. W. Qin, Q. D. Fu, P. Wang, F. W. Ye, “Observation of Stable Branched Flow of Light in Photorefractive Crystals”, Physical Review Letter (in preparation)
+
+⦁ Z. P. Fu*, Z. W. Zhang*, K. Lin*, D. Wu, J. Zhang, “Stopping power of high-density alpha-particle clusters in warm dense deuterium-tritium fuels”, Physics of Plasmas (submitted) , arXiv: https://arxiv.org/abs/2304.14086
+
+
+
+
 Selected Awards
 ======
 
