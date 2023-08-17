@@ -1,6 +1,6 @@
 ---
 title: "Intern at Harvard"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/HaervardCCB.png'>"
+excerpt: "Undergraduate Research Fellow at Harvard University  <br/><img src='/images/HaervardCCB.png'>"
 collection: portfolio
 ---
 
