@@ -4,4 +4,12 @@ excerpt: "Undergraduate Research Fellow at Harvard University  <br/><img src='/i
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Hey guys, I will spend 6 month at Harvard University, worked as an undergraduate research fellow at Heller Group. Welcome to see my wonderful momentum at Harvard Community!
+
+**Work place: Chemistry and Chemical Biology, Harvard** 
+
+
+![Harvard CCB](/images/HarvardCCB.PNG)
+
+
+
