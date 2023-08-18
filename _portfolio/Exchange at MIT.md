@@ -4,7 +4,7 @@ excerpt: "Register as a Junior student in Department of Physics, Spring 2023 <br
 collection: portfolio
 ---
 
-It's my first time abroad. Some photos taken during the trip.
+It's my first time abroad. Some photos taken during the trip. See my wonderful momentum here at MIT!
 
 **Fly over Canada. Whiter than whiter.**
 
