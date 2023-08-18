@@ -33,9 +33,9 @@ Publication
 
 ⦁ Z. P. Fu*, Z. W. Zhang*, K. Lin*, D. Wu, J. Zhang, “Stopping power of high-density alpha-particle clusters in warm dense deuterium-tritium fuels”, Physics of Plasmas 1 July 2023; 30 (7): 072708. [https://doi.org/10.1063/5.0156388](https://doi.org/10.1063/5.0156388)
 
-Editor's pick, Featured as a [cover](https://github.com/KeLin666/KeLin666.github.io/blob/master/images/POP-coverimage.jpg),
+Editor's pick, Featured as a [cover](https://KeLin666.github.io/images/POP-coverimage.jpg),
 
-![POP Cover](https://github.com/KeLin666/KeLin666.github.io/blob/master/images/POP-coverimage.jpg)
+![POP Cover](https://KeLin666.github.io/images/POP-coverimage.jpg)
 
 
 Selected Awards
