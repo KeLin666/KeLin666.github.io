@@ -44,36 +44,61 @@ Research Project
 
 **Dynamic tunneling effect of semi-classical superwire**
 
+
 ⦁ Extend study of superwire to three dimension using split-operator method
+
 ⦁ Figure out the difference between superwire and supercolimation beam in Photonics Crystal
+
 ⦁ Find breathing parallel superwire and its analogy with Gaussian wave packet in a harmonic well
+
 ⦁ Add deformation potential in superlattice and find disorder-free superwire
+
 ⦁ Construct band structure of square lattice with Fermi potential and find corresponding flat band in high index band (High Brillouin Zone)
+
 
 **Branched flow of the light (Zhiyuan Scholar Program, CN$100,000)**
 
+
 Part 1: (1+1)D and (2+1)D experimental realization
+
 ⦁ Use Split-Step FFT to simulate branch flow of light in both 2D & 3D random potential field (weak disorder)
+
 ⦁ Construct 2D & 3D, isotropic & anisotropic Gaussian-correlated random potential in a photorefractive SBN:61 crystal
+
 ⦁ Observe both (1+1)D and (2+1)D branched flow in a photorefractive SBN:61 crystal
 
+
 Part 2: Theoretical study of nonlinear branched flow
+
 ⦁ Use Fokker-Planck approach to explain the formation of caustics and branched flow
+
 ⦁ Explain the influence of the non-linear self-trap effect on the characteristics of the branch flow
+
 ⦁ Use 8th Gaussian beam to create initial effective refractive index to verify the non-linear effect
+
 ⦁ Discover smartly non-linear self-routing of soliton propagating in weak disorder random potential
+
+
 
 **Nonlinear topological Thouless pumping in optical lattice**
 
+
 ⦁ Mastered the theory of topological insulator, topological photonics and photonics band gap material
+
 ⦁ Stimulate the wave packet transportation in Thouless pumping with different nonlinear amplitude
+
 ⦁ Use MATLAB code calculating band structure for Thouless pumping in one and two dimensions
+
 
 **Measuring forces with the optical trap**
 
+
 ⦁ Measure the laser’s power-dependent force on water droplets
+
 ⦁ Assemble the self-designed optical trap, use it to capture glass beads and control their motion
+
 ⦁ Use optical trap to measure the twisting force that the bacterial motor (E. coli) generates
+
 
 Experimental Skill
 ======
@@ -81,21 +106,26 @@ Experimental Skill
 **Experimental Observation of Branched Flow**
 
 ⦁ Create isotropic and anisotropic gaussian-correlated random lattice both in 2D and 3D using optical induction based on a photorefractive SBN:61 crystal
+
 ⦁ Record the light intensity pattern using a charge-coupled device (CCD) at different facet of the crystal
+
 
 **Measurement of plasmon wavelength on graphene surfaces**
 
 ⦁ Use Atomic Force Microscopy (AFM) to measure the thickness of graphene
+
 ⦁ Use Scattering-type Scanning Near-field Optical Microscope (SNOM) to measure the wavelength of graphene surface plasmon resonance
 
-**Measuring forces with the optical trap (2018 Nobel Prize, Arthur Ashkin, optical tweezers)**
+**Measuring forces with the optical trap (optical tweezers)**
 
 ⦁ DIY an optical tweezers and assemble the self-designed optical trap
+
 ⦁ Use 5mW Nd: YAG 532nm laser to trap beads and measure the maximum force it generates
 
 **Study of stopping power of α-clusters in warm dense hydrogen**
 
 ⦁ Use Tianhe-2 supercomputer to simulate alpha-cluster propagation in Warm Dense Matter (WDM)
+
 ⦁ Explain the influence of alpha-clusters by the interference of wake field
 
 
