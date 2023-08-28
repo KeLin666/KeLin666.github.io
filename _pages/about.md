@@ -132,9 +132,15 @@ Experimental Skill
 Selected Awards
 ======
 
-Rongchang Scholarship of Science Innovation (Best 10 undergraduates in SJTU, CNY30,000) ,2022
+⦁ Rongchang Scholarship of Science Innovation (Best 10 undergraduates in SJTU, CNY30,000), 2022
 
-National Scholarship, SJTU, 2021
+⦁ A-Level Scholarship, Shanghai Jiao Tong University (Top 1%), SJTU, 2021&2022                                   
 
-1st Prize in China Undergraduate Physics academic Tournament (CUPT) First time for SJTU, 2021
+⦁ National Scholarship, Ministry of Education of China, 2021
+
+⦁ Hanyingjuhua Scholarship (Best 15 undergraduates in Zhiyuan Collage, CNY15,000), 2021
+
+⦁ 1st Prize in China Undergraduate Physics academic Tournament (CUPT) First time for SJTU, 2021
+
+       * As a leader of the team on behalf of SJTU, won 1st Prize for the first time  
 
