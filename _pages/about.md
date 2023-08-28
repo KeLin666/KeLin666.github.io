@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Hi, this is Ke Lin (Chinese: 林柯, PinYin: Lín Kē, Pronounce: Clean). I am a junior student in Department of Physics, Shanghai Jiao Tong University (SJTU).
+Hi, this is Ke Lin. I am a senior student in Department of Physics, Shanghai Jiao Tong University (SJTU).
 
-From Apr 2020 to Sept 2021, I work as the team leader of representative team of Shanghai Jiao Tong University, participated in the China Undergraduate Physics Competition (CUPT, IYPT in China). We got First Prize in the final defense of our experiment result, this is the first time our school had got this prize since attending this competition. [Here](https://github.com/KeLin666/KeLin666.github.io/blob/master/files/2-Circling%20Magnet.pdf) is a brief introduction to our research.
+In Summer 2023, I visit Harvard and work as a full-time undergraduate research fellow in [Prof. Eric Heller's Group](https://www-heller.harvard.edu/). Our potential project are superwire,
+
+From Jan 2023 to May 2023, I am an exchange student at Massachusetts Institute of Technology (MIT). I select the following class, 8.292[J] Fluid Physics, 8.422 Atomic and Optical Physics II, 8.431[J] Nonlinear Optics.
 
 From Sept 2021 to now, I work as a part-time undergraduate researcher in [Prof. Fangwei Ye's Group](https://www.physics.sjtu.edu.cn/jsml/yefangwei.html). My research topic are 3-Dimensional Branched Flow and Nonlinear Branched Flow.
 
-From Jan 2023 to now, I am an exchange student at Massachusetts Institute of Technology (MIT). I select the following class, 8.292[J] Fluid Physics, 8.422 Atomic and Optical Physics II, 8.431[J] Nonlinear Optics.
-
-In Summer 2023, I will visit Harvard and work as a full-time internship researcher in [Prof. Eric Heller's Group](https://www-heller.harvard.edu/). Our potential project are experimental realization of Branched Flow, study of Bragg scattering.
+From Apr 2020 to Sept 2021, I work as the team leader of representative team of Shanghai Jiao Tong University, participated in the China Undergraduate Physics Competition (CUPT, IYPT in China). We got First Prize in the final defense of our experiment result, this is the first time our school had got this prize since attending this competition. [Here](https://github.com/KeLin666/KeLin666.github.io/blob/master/files/2-Circling%20Magnet.pdf) is a brief introduction to our research.
 
 My research interests lie in the following four parts: Branched Flow, Novel state in Factal system, Non-Hermitian Topological Physics in Photonics.
 
@@ -36,6 +36,67 @@ Publication
 Editor's pick, Featured as a [cover](https://KeLin666.github.io/images/POP-coverimage.jpg),
 
 ![POP Cover](https://KeLin666.github.io/images/POP-coverimage.jpg)
+
+
+
+Research Project
+======
+
+**Dynamic tunneling effect of semi-classical superwire**
+
+⦁ Extend study of superwire to three dimension using split-operator method
+⦁ Figure out the difference between superwire and supercolimation beam in Photonics Crystal
+⦁ Find breathing parallel superwire and its analogy with Gaussian wave packet in a harmonic well
+⦁ Add deformation potential in superlattice and find disorder-free superwire
+⦁ Construct band structure of square lattice with Fermi potential and find corresponding flat band in high index band (High Brillouin Zone)
+
+**Branched flow of the light (Zhiyuan Scholar Program, CN$100,000)**
+
+Part 1: (1+1)D and (2+1)D experimental realization
+⦁ Use Split-Step FFT to simulate branch flow of light in both 2D & 3D random potential field (weak disorder)
+⦁ Construct 2D & 3D, isotropic & anisotropic Gaussian-correlated random potential in a photorefractive SBN:61 crystal
+⦁ Observe both (1+1)D and (2+1)D branched flow in a photorefractive SBN:61 crystal
+
+Part 2: Theoretical study of nonlinear branched flow
+⦁ Use Fokker-Planck approach to explain the formation of caustics and branched flow
+⦁ Explain the influence of the non-linear self-trap effect on the characteristics of the branch flow
+⦁ Use 8th Gaussian beam to create initial effective refractive index to verify the non-linear effect
+⦁ Discover smartly non-linear self-routing of soliton propagating in weak disorder random potential
+
+**Nonlinear topological Thouless pumping in optical lattice**
+
+⦁ Mastered the theory of topological insulator, topological photonics and photonics band gap material
+⦁ Stimulate the wave packet transportation in Thouless pumping with different nonlinear amplitude
+⦁ Use MATLAB code calculating band structure for Thouless pumping in one and two dimensions
+
+**Measuring forces with the optical trap**
+
+⦁ Measure the laser’s power-dependent force on water droplets
+⦁ Assemble the self-designed optical trap, use it to capture glass beads and control their motion
+⦁ Use optical trap to measure the twisting force that the bacterial motor (E. coli) generates
+
+Experimental Skill
+======
+
+**Experimental Observation of Branched Flow**
+
+⦁ Create isotropic and anisotropic gaussian-correlated random lattice both in 2D and 3D using optical induction based on a photorefractive SBN:61 crystal
+⦁ Record the light intensity pattern using a charge-coupled device (CCD) at different facet of the crystal
+
+**Measurement of plasmon wavelength on graphene surfaces**
+
+⦁ Use Atomic Force Microscopy (AFM) to measure the thickness of graphene
+⦁ Use Scattering-type Scanning Near-field Optical Microscope (SNOM) to measure the wavelength of graphene surface plasmon resonance
+
+**Measuring forces with the optical trap (2018 Nobel Prize, Arthur Ashkin, optical tweezers)**
+
+⦁ DIY an optical tweezers and assemble the self-designed optical trap
+⦁ Use 5mW Nd: YAG 532nm laser to trap beads and measure the maximum force it generates
+
+**Study of stopping power of α-clusters in warm dense hydrogen**
+
+⦁ Use Tianhe-2 supercomputer to simulate alpha-cluster propagation in Warm Dense Matter (WDM)
+⦁ Explain the influence of alpha-clusters by the interference of wake field
 
 
 Selected Awards
