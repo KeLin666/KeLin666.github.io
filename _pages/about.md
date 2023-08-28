@@ -142,5 +142,5 @@ Selected Awards
 
 ⦁ 1st Prize in China Undergraduate Physics academic Tournament (CUPT) First time for SJTU, 2021
 
-       * As a leader of the team on behalf of SJTU, won 1st Prize for the first time  
+  _As a leader of the team on behalf of SJTU, won 1st Prize for the first time_
 
