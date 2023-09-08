@@ -85,7 +85,7 @@ author:
   bio              : "Math & Physics"
   location         : "Boston, MA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=VcBPUQwAAAAJ&hl=en"
   email            : "kelin7196@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         : "profile.php?id=100089296150003"
   foursquare       :
-  github           : "academicpages"
+  github           : "KeLin666"
   google_plus      :
   keybase          :
   instagram        : "kelin0577"
