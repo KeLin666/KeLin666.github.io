@@ -43,15 +43,15 @@ Research Project
 **Dynamic tunneling effect of semi-classical superwire**
 
 
-⦁ Extend study of superwire to three dimension using split-operator method
+  * Extend study of superwire to three dimension using split-operator method
 
-⦁ Figure out the difference between superwire and supercolimation beam in Photonics Crystal
+  * Figure out the difference between superwire and supercolimation beam in Photonics Crystal
 
-⦁ Find breathing parallel superwire and its analogy with Gaussian wave packet in a harmonic well
+  * Find breathing parallel superwire and its analogy with Gaussian wave packet in a harmonic well
 
-⦁ Add deformation potential in superlattice and find disorder-free superwire
+  * Add deformation potential in superlattice and find disorder-free superwire
 
-⦁ Construct band structure of square lattice with Fermi potential and find corresponding flat band in high index band (High Brillouin Zone)
+  * Construct band structure of square lattice with Fermi potential and find corresponding flat band in high index band (High Brillouin Zone)
 
 
 **Branched flow of the light (Zhiyuan Scholar Program, CN$100,000)**
@@ -59,43 +59,43 @@ Research Project
 
 Part 1: (1+1)D and (2+1)D experimental realization
 
-⦁ Use Split-Step FFT to simulate branch flow of light in both 2D & 3D random potential field (weak disorder)
+  * Use Split-Step FFT to simulate branch flow of light in both 2D & 3D random potential field (weak disorder)
 
-⦁ Construct 2D & 3D, isotropic & anisotropic Gaussian-correlated random potential in a photorefractive SBN:61 crystal
+  * Construct 2D & 3D, isotropic & anisotropic Gaussian-correlated random potential in a photorefractive SBN:61 crystal
 
-⦁ Observe both (1+1)D and (2+1)D branched flow in a photorefractive SBN:61 crystal
+  * Observe both (1+1)D and (2+1)D branched flow in a photorefractive SBN:61 crystal
 
 
 Part 2: Theoretical study of nonlinear branched flow
 
-⦁ Use Fokker-Planck approach to explain the formation of caustics and branched flow
+  * Use Fokker-Planck approach to explain the formation of caustics and branched flow
 
-⦁ Explain the influence of the non-linear self-trap effect on the characteristics of the branch flow
+  * Explain the influence of the non-linear self-trap effect on the characteristics of the branch flow
 
-⦁ Use 8th Gaussian beam to create initial effective refractive index to verify the non-linear effect
+  * Use 8th Gaussian beam to create initial effective refractive index to verify the non-linear effect
 
-⦁ Discover smartly non-linear self-routing of soliton propagating in weak disorder random potential
+  * Discover smartly non-linear self-routing of soliton propagating in weak disorder random potential
 
 
 
 **Nonlinear topological Thouless pumping in optical lattice**
 
 
-⦁ Mastered the theory of topological insulator, topological photonics and photonics band gap material
+  * Mastered the theory of topological insulator, topological photonics and photonics band gap material
 
-⦁ Stimulate the wave packet transportation in Thouless pumping with different nonlinear amplitude
+  * Stimulate the wave packet transportation in Thouless pumping with different nonlinear amplitude
 
-⦁ Use MATLAB code calculating band structure for Thouless pumping in one and two dimensions
+  * Use MATLAB code calculating band structure for Thouless pumping in one and two dimensions
 
 
 **Measuring forces with the optical trap**
 
 
-⦁ Measure the laser’s power-dependent force on water droplets
+  * Measure the laser’s power-dependent force on water droplets
 
-⦁ Assemble the self-designed optical trap, use it to capture glass beads and control their motion
+  * Assemble the self-designed optical trap, use it to capture glass beads and control their motion
 
-⦁ Use optical trap to measure the twisting force that the bacterial motor (E. coli) generates
+  * Use optical trap to measure the twisting force that the bacterial motor (E. coli) generates
 
 
 Experimental Skill
@@ -103,42 +103,42 @@ Experimental Skill
 
 **Experimental Observation of Branched Flow**
 
-⦁ Create isotropic and anisotropic gaussian-correlated random lattice both in 2D and 3D using optical induction based on a photorefractive SBN:61 crystal
+  * Create isotropic and anisotropic gaussian-correlated random lattice both in 2D and 3D using optical induction based on a photorefractive SBN:61 crystal
 
-⦁ Record the light intensity pattern using a charge-coupled device (CCD) at different facet of the crystal
+  * Record the light intensity pattern using a charge-coupled device (CCD) at different facet of the crystal
 
 
 **Measurement of plasmon wavelength on graphene surfaces**
 
-⦁ Use Atomic Force Microscopy (AFM) to measure the thickness of graphene
+  * Use Atomic Force Microscopy (AFM) to measure the thickness of graphene
 
-⦁ Use Scattering-type Scanning Near-field Optical Microscope (SNOM) to measure the wavelength of graphene surface plasmon resonance
+  * Use Scattering-type Scanning Near-field Optical Microscope (SNOM) to measure the wavelength of graphene surface plasmon resonance
 
 **Measuring forces with the optical trap (optical tweezers)**
 
-⦁ DIY an optical tweezers and assemble the self-designed optical trap
+  * DIY an optical tweezers and assemble the self-designed optical trap
 
-⦁ Use 5mW Nd: YAG 532nm laser to trap beads and measure the maximum force it generates
+  * Use 5mW Nd: YAG 532nm laser to trap beads and measure the maximum force it generates
 
 **Study of stopping power of α-clusters in warm dense hydrogen**
 
-⦁ Use Tianhe-2 supercomputer to simulate alpha-cluster propagation in Warm Dense Matter (WDM)
+  * Use Tianhe-2 supercomputer to simulate alpha-cluster propagation in Warm Dense Matter (WDM)
 
-⦁ Explain the influence of alpha-clusters by the interference of wake field
+  * Explain the influence of alpha-clusters by the interference of wake field
 
 
 Selected Awards
 ======
 
-⦁ Rongchang Scholarship of Science Innovation (Best 10 undergraduates in SJTU, CNY30,000), 2022
+  * Rongchang Scholarship of Science Innovation (Best 10 undergraduates in SJTU, CNY30,000), 2022
 
-⦁ A-Level Scholarship, Shanghai Jiao Tong University (Top 1%), SJTU, 2021&2022                                   
+  * A-Level Scholarship, Shanghai Jiao Tong University (Top 1%), SJTU, 2021&2022                                   
 
-⦁ National Scholarship, Ministry of Education of China, 2021
+  * National Scholarship, Ministry of Education of China, 2021
 
-⦁ Hanyingjuhua Scholarship (Best 15 undergraduates in Zhiyuan Collage, CNY15,000), 2021
+  * Hanyingjuhua Scholarship (Best 15 undergraduates in Zhiyuan Collage, CNY15,000), 2021
 
-⦁ 1st Prize in China Undergraduate Physics academic Tournament (CUPT) First time for SJTU, 2021
+  * 1st Prize in China Undergraduate Physics academic Tournament (CUPT) First time for SJTU, 2021
 
   _As a leader of the team on behalf of SJTU, won 1st Prize for the first time_
 
