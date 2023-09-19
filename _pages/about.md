@@ -57,24 +57,24 @@ Research Project
 * **Branched flow of the light (Zhiyuan Scholar Program, CN$100,000)**
 
 
-  * Part 1: (1+1)D and (2+1)D experimental realization
+  * **Part 1: (1+1)D and (2+1)D experimental realization**
 
-    * Use Split-Step FFT to simulate branch flow of light in both 2D & 3D random potential field (weak disorder)
+  * Use Split-Step FFT to simulate branch flow of light in both 2D & 3D random potential field (weak disorder)
 
-    * Construct 2D & 3D, isotropic & anisotropic Gaussian-correlated random potential in a photorefractive SBN:61 crystal
+  * Construct 2D & 3D, isotropic & anisotropic Gaussian-correlated random potential in a photorefractive SBN:61 crystal
 
-    * Observe both (1+1)D and (2+1)D branched flow in a photorefractive SBN:61 crystal
+  * Observe both (1+1)D and (2+1)D branched flow in a photorefractive SBN:61 crystal
 
 
-  * Part 2: Theoretical study of nonlinear branched flow
+  * **Part 2: Theoretical study of nonlinear branched flow**
 
-    * Use Fokker-Planck approach to explain the formation of caustics and branched flow
+  * Use Fokker-Planck approach to explain the formation of caustics and branched flow
 
-    * Explain the influence of the non-linear self-trap effect on the characteristics of the branch flow
+  * Explain the influence of the non-linear self-trap effect on the characteristics of the branch flow
 
-    * Use 8th Gaussian beam to create initial effective refractive index to verify the non-linear effect
+  * Use 8th Gaussian beam to create initial effective refractive index to verify the non-linear effect
 
-    * Discover smartly non-linear self-routing of soliton propagating in weak disorder random potential
+  * Discover smartly non-linear self-routing of soliton propagating in weak disorder random potential
 
 
 
