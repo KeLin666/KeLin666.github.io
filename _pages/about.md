@@ -15,7 +15,7 @@ From **Jan 2023 to May 2023**, I am an exchange student at Massachusetts Institu
 
 From **Sept 2021 to March 2023**, I work as a part-time undergraduate researcher in [Prof. Fangwei Ye's Group](https://www.physics.sjtu.edu.cn/jsml/yefangwei.html). My research topic are realization of 3-Dimensional Branched Flow and Nonlinear Branched Flow.
 
-From **Apr 2020 to Sept 2021**, I work as the team leader of representative team of Shanghai Jiao Tong University, participated in the China Undergraduate Physics Competition (CUPT, IYPT in China). We got First Prize in the final defense of our experiment result, this is the first time our school had got this prize since attending this competition. [Here](https://github.com/KeLin666/KeLin666.github.io/blob/master/files/2-Circling%20Magnet.pdf) is a brief introduction to our research.
+From **Apr 2020 to Sept 2021**, I work as the team leader of representative team of Shanghai Jiao Tong University, participated in the China Undergraduate Physics Competition (CUPT, IYPT in China). We got First Prize in the final defense of our experiment result, this is the first time our school had got this prize since attending this competition. [Here](https://KeLin666.github.io/files/2-Circling%20Magnet.pdf) is a brief introduction to our research.
 
 My research interests lie in the following four parts: Branched Flow, Novel state in wave system and its application, Non-Hermitian Topological Physics in Photonics and its application.
 
@@ -27,7 +27,7 @@ Publication
 
 [Google Scholar](https://scholar.google.com/citations?user=VcBPUQwAAAAJ&hl=en)
 
-⦁ K. Lin, Z. Y. Liu, J. W. Qin, Q. D. Fu, P. Wang, F. W. Ye, “Observation of Stable Branched Flow of Light in Photorefractive Crystals”, Physical Review Letter (in preparation) Here is the [Link](https://github.com/KeLin666/KeLin666.github.io/files/KeLin-PRL-Observation_of_Stable_Branched_Flow_of_Light_in_Photorefractive_Crystals.pdf). 
+⦁ K. Lin, Z. Y. Liu, J. W. Qin, Q. D. Fu, P. Wang, F. W. Ye, “Observation of Stable Branched Flow of Light in Photorefractive Crystals”, Physical Review Letter (in preparation) Here is the [Link](https://KeLin666.github.io/files/KeLin-PRL-Observation_of_Stable_Branched_Flow_of_Light_in_Photorefractive_Crystals.pdf). 
 
 ⦁ Z. P. Fu*, Z. W. Zhang*, K. Lin*, D. Wu, J. Zhang, “Stopping power of high-density alpha-particle clusters in warm dense deuterium-tritium fuels”, Physics of Plasmas 1 July 2023; 30 (7): 072708. [https://doi.org/10.1063/5.0156388](https://doi.org/10.1063/5.0156388)
 
