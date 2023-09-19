@@ -9,18 +9,17 @@ redirect_from:
 
 Hi, this is Ke Lin. I am a senior student in Department of Physics, Shanghai Jiao Tong University (SJTU).
 
-In Summer 2023, I visit Harvard and work as a full-time undergraduate research fellow in [Prof. Eric Heller's Group](https://www-heller.harvard.edu/). Our potential project are superwire,
+In **Summer and Fall 2023**, I visit Harvard and work as a full-time undergraduate research fellow in [Prof. Eric Heller's Group](https://www-heller.harvard.edu/). My project are about superwire in period system and Wave-on-Wave.
 
-From Jan 2023 to May 2023, I am an exchange student at Massachusetts Institute of Technology (MIT). I select the following class, 8.292[J] Fluid Physics, 8.422 Atomic and Optical Physics II, 8.431[J] Nonlinear Optics.
+From **Jan 2023 to May 2023**, I am an exchange student at Massachusetts Institute of Technology (MIT). Courses selected: 8.292[J] Fluid Physics, 8.422 Atomic and Optical Physics II, 8.431[J] Nonlinear Optics.
 
-From Sept 2021 to now, I work as a part-time undergraduate researcher in [Prof. Fangwei Ye's Group](https://www.physics.sjtu.edu.cn/jsml/yefangwei.html). My research topic are 3-Dimensional Branched Flow and Nonlinear Branched Flow.
+From **Sept 2021 to March 2023**, I work as a part-time undergraduate researcher in [Prof. Fangwei Ye's Group](https://www.physics.sjtu.edu.cn/jsml/yefangwei.html). My research topic are realization of 3-Dimensional Branched Flow and Nonlinear Branched Flow.
 
 From Apr 2020 to Sept 2021, I work as the team leader of representative team of Shanghai Jiao Tong University, participated in the China Undergraduate Physics Competition (CUPT, IYPT in China). We got First Prize in the final defense of our experiment result, this is the first time our school had got this prize since attending this competition. [Here](https://github.com/KeLin666/KeLin666.github.io/blob/master/files/2-Circling%20Magnet.pdf) is a brief introduction to our research.
 
-My research interests lie in the following four parts: Branched Flow, Novel state in Factal system, Non-Hermitian Topological Physics in Photonics.
+My research interests lie in the following four parts: Branched Flow, Novel state in wave system and its application, Non-Hermitian Topological Physics in Photonics and its application.
 
-Feel free to contact me if you have any question about my research. Although I am an undergraduate student, I am very happy to discuss the above research with you！
-
+**Feel free to contact me if you have any question about my research. I am currently searching for a PhD position in 24 Fall. If you have openings in your group, please feel free to reach out to me!**
 
 Publication
 ======
