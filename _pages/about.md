@@ -40,7 +40,7 @@ Editor's pick, Featured as a [cover](https://KeLin666.github.io/images/POP-cover
 Research Project
 ======
 
-**Dynamic tunneling effect of semi-classical superwire**
+* **Dynamic tunneling effect of semi-classical superwire**
 
 
   * Extend study of superwire to three dimension using split-operator method
@@ -54,7 +54,7 @@ Research Project
   * Construct band structure of square lattice with Fermi potential and find corresponding flat band in high index band (High Brillouin Zone)
 
 
-**Branched flow of the light (Zhiyuan Scholar Program, CN$100,000)**
+* **Branched flow of the light (Zhiyuan Scholar Program, CN$100,000)**
 
 
 Part 1: (1+1)D and (2+1)D experimental realization
