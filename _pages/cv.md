@@ -13,22 +13,27 @@ redirect_from:
 
 Education
 ======
-* High School Wenzhou High School, Zhe Jiang, 2017-2020
-* B.S. Department of Physics, Shanghai Jiao Tong University, 2020-2024
-* Exchange student Department of Physics, Massachusetts Institute of Technology, 2023
+* **High School** Wenzhou High School, Zhe Jiang Province, 2017-2020
+* **B.S.** Department of Physics, Shanghai Jiao Tong University, 2020-2024
+* **Exchange student** Department of Physics, Massachusetts Institute of Technology, 2023
 
 Work experience
 ======
 
-* Mar 2023 to now
+* May 2023 to now: Undergraduate research fellow
   * Harvard University
   * Research Topic: Superwire in superlattice
   * Supervisor: Professor Eric Heller
 
-* Sept 2021 to now: Part-time undergraduate researcher
+* Sept 2021 to March 2023: Part-time undergraduate researcher
   * Shanghai Jiao Tong University
   * Research Topic: Experimental realization of Branched Flow in SBN crystal
   * Supervisor: Professor Fangwei Ye
+
+* Sept 2022 to Apr 2023: Part-time undergraduate researcher
+  * Shanghai Jiao Tong University
+  * Research Topic: Stopping power of high-density alpha-particle clusters in warm dense deuterium-tritium fuels
+  * Supervisor: Professor Dong Wu, Professor Jie Zhang
 
 * Apr 2020 to Sept 2021: Team leader of representative team of Shanghai Jiao Tong University, participated in the China Undergraduate Physics Competition (CUPT, IYPT in China)
   * Shanghai Jiao Tong University
