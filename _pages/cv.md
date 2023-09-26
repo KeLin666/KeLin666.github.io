@@ -22,12 +22,12 @@ Work experience
 
 * Mar 2023 to now
   * Harvard University
-  * Research Topic: Experimental realization of Branched Flow, study of Bragg scattering
+  * Research Topic: Superwire in superlattice
   * Supervisor: Professor Eric Heller
 
 * Sept 2021 to now: Part-time undergraduate researcher
   * Shanghai Jiao Tong University
-  * Research Topic: Branched Flow
+  * Research Topic: Experimental realization of Branched Flow in SBN crystal
   * Supervisor: Professor Fangwei Ye
 
 * Apr 2020 to Sept 2021: Team leader of representative team of Shanghai Jiao Tong University, participated in the China Undergraduate Physics Competition (CUPT, IYPT in China)
@@ -51,19 +51,7 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
 Service and leadership
 ======
 * President of the Student Union, Zhiyuan College, SJTU
