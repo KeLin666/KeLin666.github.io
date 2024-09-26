@@ -19,7 +19,17 @@ From **Apr 2020 to Sept 2021**, I work as the team leader of representative team
 
 My research interests lie in the following four parts: Branched Flow, Novel state in wave system and its application, Non-Hermitian Topological Physics in Photonics and its application.
 
-**Feel free to contact me if you have any question about my research. I am currently searching for a PhD position in 24 Fall. If you have openings in your group, please feel free to reach out to me!**
+News
+======
+
+09/2024 Work as Graduate Student Researcher at Dan's Group.
+08/2024 Started new academic journey as a PhD at the University of California, Berkeley.
+06/2024 Graduate from Shanghai Jiao Tong University with _summa cum laude_ .
+04/2024 Our new paper **Chaos-Assisted Dynamical Tunneling in Flat Band Superwires** was published in _Entropy_.
+07/2023 Started new academic journey as an undergraduate research fellow at Harvard University.
+02/2023 Started new academic journey as an exchange student at Massachusett Institute of Technology.
+
+
 
 Publication
 ======
