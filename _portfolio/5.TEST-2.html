@@ -3,5 +3,58 @@ title: "Portfolio item number 2"
 excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Gallery</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+        .grid {
+            display: flex;
+            margin: -15px; /* 负值margin用于消除间距 */
+        }
+
+        .grid-item {
+            width: calc(33.333% - 15px); /* 三列布局，减去间距 */
+            margin: 15px; /* 图片间距 */
+        }
+
+        .grid-item img {
+            width: 100%; /* 使图片宽度100% */
+            border-radius: 8px; /* 圆角效果 */
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); /* 阴影效果 */
+        }
+
+        h1 {
+            text-align: center; /* 标题居中 */
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Image Gallery</h1>
+    <div class="grid">
+        <div class="grid-item"><img src="image1.jpg" alt="Image 1"></div>
+        <div class="grid-item"><img src="image2.jpg" alt="Image 2"></div>
+        <div class="grid-item"><img src="image3.jpg" alt="Image 3"></div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/masonry/4.2.2/masonry.pkgd.min.js"></script>
+    <script>
+        // 初始化Masonry
+        const grid = document.querySelector('.grid');
+        const msnry = new Masonry(grid, {
+            itemSelector: '.grid-item',
+            columnWidth: '.grid-item',
+            percentPosition: true
+        });
+    </script>
+
+</body>
+</html>
