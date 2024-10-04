@@ -5,3 +5,22 @@ collection: portfolio
 ---
 
 This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+
+<style>
+  .image-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 15px;
+  }
+  .image-grid img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+  }
+</style>
+
+<div class="image-grid">
+  <img src="images/Chinatown.jpg" alt="Image 1">
+  <img src="images/GoldenBridge01.jpg" alt="Image 2">
+  <img src="images/GoldenBridge02.jpg" alt="Image 3">
+</div>
