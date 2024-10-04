@@ -12,11 +12,11 @@ Hi, this is Ke Lin. I am a 1st year PhD student in Department of Physics, Univer
 News
 ======
 
-\[09/2024\] Work as Graduate Student Researcher at Dan's Group.
+\[09/2024\] Work as Graduate Student Researcher at [Prof. Dan Stamper-Kurn's Group](https://ultracold.physics.berkeley.edu/).
 
 \[08/2024\] Started new academic journey as a PhD at the University of California, Berkeley.
 
-\[06/2024\] Graduate from Shanghai Jiao Tong University with _summa cum laude_.
+\[06/2024\] Graduated from Shanghai Jiao Tong University with _summa cum laude_.
 
 \[06/2024\] Awarded with the honor of Shanghai Outstanding Graduate (top 3%).
 
