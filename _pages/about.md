@@ -7,7 +7,7 @@ redirect_from:
   - /about/
 ---
 
-Hi, this is Ke Lin. I am a 1st year PhD student in Department of Physics, University of California at Berkeley.
+Hi, this is Ke Lin. I am a 1st year PhD student in Department of Physics, University of California at Berkeley. Please feel free to explore my homepage. If you find something interesting and want to discuss it with me, or collaborate with me on research, feel free to book a zoom meeting [here](https://calendly.com/ke-lin-berkeley/30min?month=2024-10).
 
 News
 ======
