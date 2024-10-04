@@ -12,21 +12,21 @@ Hi, this is Ke Lin. I am a 1st year PhD student in Department of Physics, Univer
 News
 ======
 
-09/2024 Work as Graduate Student Researcher at Dan's Group.
+\[09/2024\] Work as Graduate Student Researcher at Dan's Group.
 
-08/2024 Started new academic journey as a PhD at the University of California, Berkeley.
+\[08/2024\] Started new academic journey as a PhD at the University of California, Berkeley.
 
-06/2024 Graduate from Shanghai Jiao Tong University with _summa cum laude_.
+\[06/2024\] Graduate from Shanghai Jiao Tong University with _summa cum laude_.
 
-06/2024 Awarded with the honor of Shanghai Outstanding Graduate (top 3%).
+\[06/2024\] Awarded with the honor of Shanghai Outstanding Graduate (top 3%).
 
-04/2024 Our new paper [**Chaos-Assisted Dynamical Tunneling in Flat Band Superwires**](https://www.mdpi.com/1099-4300/26/6/492) was published in _Entropy_.
+\[04/2024\] Our new paper [**Chaos-Assisted Dynamical Tunneling in Flat Band Superwires**](https://www.mdpi.com/1099-4300/26/6/492) was published in _Entropy_.
 
-07/2023 Started new academic journey as an undergraduate research fellow at Harvard University. Worked as a full-time undergraduate research fellow in [Prof. Eric Heller's Group](https://www-heller.harvard.edu/). My project are about superwire in period system.
+\[07/2023\] Started new academic journey as an undergraduate research fellow at Harvard University. Worked as a full-time undergraduate research fellow in [Prof. Eric Heller's Group](https://www-heller.harvard.edu/). My project are about superwire in period system.
 
-02/2023 Started new academic journey as an exchange student at Massachusett Institute of Technology.
+\[02/2023\] Started new academic journey as an exchange student at Massachusett Institute of Technology.
 
-09/2021 Worked as a part-time undergraduate researcher in [Prof. Fangwei Ye's Group](https://www.physics.sjtu.edu.cn/jsml/yefangwei.html). My research topic are realization of 3-Dimensional Branched Flow and Nonlinear Branched Flow.
+\[09/2021\] Worked as a part-time undergraduate researcher in [Prof. Fangwei Ye's Group](https://www.physics.sjtu.edu.cn/jsml/yefangwei.html). My research topic are realization of 3-Dimensional Branched Flow and Nonlinear Branched Flow.
 
 
 Publication
