@@ -7,17 +7,7 @@ redirect_from:
   - /about/
 ---
 
-Hi, this is Ke Lin. I am a senior student in Department of Physics, Shanghai Jiao Tong University (SJTU).
-
-In **Summer and Fall 2023**, I visit Harvard and work as a full-time undergraduate research fellow in [Prof. Eric Heller's Group](https://www-heller.harvard.edu/). My project are about superwire in period system and Wave-on-Wave.
-
-From **Jan 2023 to May 2023**, I am an exchange student at Massachusetts Institute of Technology (MIT). Courses selected: 8.292[J] Fluid Physics, 8.422 Atomic and Optical Physics II, 8.431[J] Nonlinear Optics.
-
-From **Sept 2021 to March 2023**, I work as a part-time undergraduate researcher in [Prof. Fangwei Ye's Group](https://www.physics.sjtu.edu.cn/jsml/yefangwei.html). My research topic are realization of 3-Dimensional Branched Flow and Nonlinear Branched Flow.
-
-From **Apr 2020 to Sept 2021**, I work as the team leader of representative team of Shanghai Jiao Tong University, participated in the China Undergraduate Physics Competition (CUPT, IYPT in China). We got First Prize in the final defense of our experiment result, this is the first time our school had got this prize since attending this competition. [Here](https://KeLin666.github.io/files/2-Circling%20Magnet.pdf) is a brief introduction to our research.
-
-My research interests lie in the following four parts: Branched Flow, Novel state in wave system and its application, Non-Hermitian Topological Physics in Photonics and its application.
+Hi, this is Ke Lin. I am a 1st year PhD student in Department of Physics, University of California at Berkeley.
 
 News
 ======
@@ -28,15 +18,15 @@ News
 
 06/2024 Graduate from Shanghai Jiao Tong University with _summa cum laude_.
 
-06/2024 Awarded with Outstanding Graduate from SJTU.
+06/2024 Awarded with the honor of Shanghai Outstanding Graduate (top 3%).
 
 04/2024 Our new paper [**Chaos-Assisted Dynamical Tunneling in Flat Band Superwires**](https://www.mdpi.com/1099-4300/26/6/492) was published in _Entropy_.
 
-07/2023 Started new academic journey as an undergraduate research fellow at Harvard University.
+07/2023 Started new academic journey as an undergraduate research fellow at Harvard University. Worked as a full-time undergraduate research fellow in [Prof. Eric Heller's Group](https://www-heller.harvard.edu/). My project are about superwire in period system.
 
 02/2023 Started new academic journey as an exchange student at Massachusett Institute of Technology.
 
-
+09/2021 Worked as a part-time undergraduate researcher in [Prof. Fangwei Ye's Group](https://www.physics.sjtu.edu.cn/jsml/yefangwei.html). My research topic are realization of 3-Dimensional Branched Flow and Nonlinear Branched Flow.
 
 
 Publication
