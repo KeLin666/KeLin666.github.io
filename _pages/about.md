@@ -38,8 +38,7 @@ Publication
 ⦁ K. Lin, Z. Y. Liu, J. W. Qin, Q. D. Fu, P. Wang, F. W. Ye, “Observation of Stable Branched Flow of Light in Photorefractive Crystals”, Physical Review Letter (in preparation) Here is the [Link](https://KeLin666.github.io/files/KeLin-PRL-Observation_of_Stable_Branched_Flow_of_Light_in_Photorefractive_Crystals.pdf). 
 
 
-Anton M. Graf, Ke Lin, MyeongSeo Kim, Joonas Keski-Rahkonen, Alvar Daza, and Eric J. Heller, "Chaos-Assisted Dynamical Tunneling in Flat Band Superwires", Entropy 2024, 26(6), 492; [https://doi.org/10.3390/e26060492](Entropy 2024, 26(6), 492; https://doi.org/10.3390/e26060492)
-
+Anton M. Graf, Ke Lin, MyeongSeo Kim, Joonas Keski-Rahkonen, Alvar Daza, and Eric J. Heller, "Chaos-Assisted Dynamical Tunneling in Flat Band Superwires", Entropy 2024, 26(6), 492; [https://doi.org/10.3390/e26060492](https://www.mdpi.com/1099-4300/26/6/492)
 
 ⦁ Z. P. Fu*, Z. W. Zhang*, K. Lin*, D. Wu, J. Zhang, “Stopping power of high-density alpha-particle clusters in warm dense deuterium-tritium fuels”, Physics of Plasmas 1 July 2023; 30 (7): 072708. [https://doi.org/10.1063/5.0156388](https://doi.org/10.1063/5.0156388)
 
