@@ -18,7 +18,7 @@ News
 
 \[06/2024\] Graduated from Shanghai Jiao Tong University with _summa cum laude_.
 
-\[06/2024\] Awarded with the honor of Shanghai Outstanding Graduate (top 3%).
+\[06/2024\] Awarded with the honor of Shanghai Outstanding Graduate (top 0.1%).
 
 \[04/2024\] Our new paper [**Chaos-Assisted Dynamical Tunneling in Flat Band Superwires**](https://www.mdpi.com/1099-4300/26/6/492) was published in _Entropy_.
 
@@ -44,66 +44,13 @@ Anton M. Graf, Ke Lin, MyeongSeo Kim, Joonas Keski-Rahkonen, Alvar Daza, and Eri
 
 Editor's pick, Featured as a [cover](https://KeLin666.github.io/images/POP-coverimage.jpg)
 
-
-Research Project
+Teaching Skill
 ======
 
-* **Dynamic tunneling effect of semi-classical superwire**
+**Physics Laboratory**
 
+Zhiyuan College, Shanghai Jiao Tong University, 2024
 
-  * Extend study of superwire to three dimension using split-operator method
-
-  * Figure out the difference between superwire and supercolimation beam in Photonics Crystal
-
-  * Find breathing parallel superwire and its analogy with Gaussian wave packet in a harmonic well
-
-  * Add deformation potential in superlattice and find disorder-free superwire
-
-  * Construct band structure of square lattice with Fermi potential and find corresponding flat band in high index band (High Brillouin Zone)
-
-
-* **Branched flow of the light (Zhiyuan Scholar Program, CN$100,000)**
-
-
-  * **Part 1: (1+1)D and (2+1)D experimental realization**
-
-  * Use Split-Step FFT to simulate branch flow of light in both 2D & 3D random potential field (weak disorder)
-
-  * Construct 2D & 3D, isotropic & anisotropic Gaussian-correlated random potential in a photorefractive SBN:61 crystal
-
-  * Observe both (1+1)D and (2+1)D branched flow in a photorefractive SBN:61 crystal
-
-
-  * **Part 2: Theoretical study of nonlinear branched flow**
-
-  * Use Fokker-Planck approach to explain the formation of caustics and branched flow
-
-  * Explain the influence of the non-linear self-trap effect on the characteristics of the branch flow
-
-  * Use 8th Gaussian beam to create initial effective refractive index to verify the non-linear effect
-
-  * Discover smartly non-linear self-routing of soliton propagating in weak disorder random potential
-
-
-
-* **Nonlinear topological Thouless pumping in optical lattice**
-
-
-  * Mastered the theory of topological insulator, topological photonics and photonics band gap material
-
-  * Stimulate the wave packet transportation in Thouless pumping with different nonlinear amplitude
-
-  * Use MATLAB code calculating band structure for Thouless pumping in one and two dimensions
-
-
-* **Measuring forces with the optical trap**
-
-
-  * Measure the laser’s power-dependent force on water droplets
-
-  * Assemble the self-designed optical trap, use it to capture glass beads and control their motion
-
-  * Use optical trap to measure the twisting force that the bacterial motor (E. coli) generates
 
 
 Experimental Skill
