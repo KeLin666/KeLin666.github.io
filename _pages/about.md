@@ -35,7 +35,8 @@ Publication
 
 [Google Scholar](https://scholar.google.com/citations?user=VcBPUQwAAAAJ&hl=en)
 
-⦁ Yan Liu\*, Ke Lin\*, Zhaoyu Liu, et al., “Observation of Two-dimensional Branched Flow of Light”, Physical Review Letter 2025 (in press) 
+⦁ Yan Liu\*, Ke Lin\*, Zhaoyu Liu, et al., “Observation of Two-dimensional Branched Flow of Light”, Physical Review Letter 2025 (in press) [https://doi.org/10.1103/gyqw-d17z
+](https://doi.org/10.1103/gyqw-d17z)
 
 
 ⦁ Anton M. Graf, Ke Lin, MyeongSeo Kim, Joonas Keski-Rahkonen, Alvar Daza, and Eric J. Heller, "Chaos-Assisted Dynamical Tunneling in Flat Band Superwires", Entropy 2024, 26(6), 492; [https://doi.org/10.3390/e26060492](https://www.mdpi.com/1099-4300/26/6/492)
