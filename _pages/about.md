@@ -11,7 +11,7 @@ Hi, this is Ke Lin. I am a 2nd year PhD student in Department of Physics, Univer
 
 News
 ======
-\[09/2025\] New paper Observation of Two-dimensional Branched Flow of Light was published in _Physical Review Letter_
+\[09/2025\] New paper [**Observation of Two-dimensional Branched Flow of Light**](https://doi.org/10.1103/gyqw-d17z) was published in _Physical Review Letter_
 
 \[09/2024\] Work as Graduate Student Researcher at [Prof. Dan Stamper-Kurn's Group](https://ultracold.physics.berkeley.edu/).
 
@@ -46,42 +46,13 @@ Publication
 
 Editor's pick, Featured as a [cover](https://KeLin666.github.io/images/POP-coverimage.jpg)
 
-Teaching Skill
+Teaching Assistant
 ======
 
 **Physics Laboratory**
 
 Zhiyuan College, Shanghai Jiao Tong University, 2024
 
-
-
-Experimental Skill
-======
-
-* **Experimental Observation of Branched Flow**
-
-  * Create isotropic and anisotropic gaussian-correlated random lattice both in 2D and 3D using optical induction based on a photorefractive SBN:61 crystal
-
-  * Record the light intensity pattern using a charge-coupled device (CCD) at different facet of the crystal
-
-
-* **Measurement of plasmon wavelength on graphene surfaces**
-
-  * Use Atomic Force Microscopy (AFM) to measure the thickness of graphene
-
-  * Use Scattering-type Scanning Near-field Optical Microscope (SNOM) to measure the wavelength of graphene surface plasmon resonance
-
-* **Measuring forces with the optical trap (optical tweezers)**
-
-  * DIY an optical tweezers and assemble the self-designed optical trap
-
-  * Use 5mW Nd: YAG 532nm laser to trap beads and measure the maximum force it generates
-
-* **Study of stopping power of α-clusters in warm dense hydrogen**
-
-  * Use Tianhe-2 supercomputer to simulate alpha-cluster propagation in Warm Dense Matter (WDM)
-
-  * Explain the influence of alpha-clusters by the interference of wake field
 
 
 Selected Awards
