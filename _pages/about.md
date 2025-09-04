@@ -7,10 +7,11 @@ redirect_from:
   - /about/
 ---
 
-Hi, this is Ke Lin. I am a 1st year PhD student in Department of Physics, University of California at Berkeley. Please feel free to explore my homepage. If you find something interesting and want to discuss it with me, or collaborate with me on research, feel free to book a zoom meeting [here](https://calendly.com/ke-lin-berkeley/30min?month=2024-10).
+Hi, this is Ke Lin. I am a 2nd year PhD student in Department of Physics, University of California at Berkeley. Please feel free to explore my homepage. If you find something interesting and want to discuss it with me, or collaborate with me on research, feel free to book a zoom meeting [here](https://calendly.com/ke-lin-berkeley/30min?month=2024-10).
 
 News
 ======
+\[09/2025\] New paper Observation of Two-dimensional Branched Flow of Light was published in _Physical Review Letter_
 
 \[09/2024\] Work as Graduate Student Researcher at [Prof. Dan Stamper-Kurn's Group](https://ultracold.physics.berkeley.edu/).
 
@@ -20,7 +21,7 @@ News
 
 \[06/2024\] Awarded with the honor of Shanghai Outstanding Graduate (top 0.1%).
 
-\[04/2024\] Our new paper [**Chaos-Assisted Dynamical Tunneling in Flat Band Superwires**](https://www.mdpi.com/1099-4300/26/6/492) was published in _Entropy_.
+\[04/2024\] New paper [**Chaos-Assisted Dynamical Tunneling in Flat Band Superwires**](https://www.mdpi.com/1099-4300/26/6/492) was published in _Entropy_.
 
 \[07/2023\] Started new academic journey as an undergraduate research fellow at Harvard University. Worked as a full-time undergraduate research fellow in [Prof. Eric Heller's Group](https://www-heller.harvard.edu/). My project are about superwire in period system.
 
