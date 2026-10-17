@@ -7,11 +7,16 @@ redirect_from:
   - /about/
 ---
 
-Hi, this is Ke Lin. I am a 2nd year PhD student in Department of Physics, University of California at Berkeley. Please feel free to explore my homepage. If you find something interesting and want to discuss it with me, or collaborate with me on research, feel free to book a zoom meeting [here](https://calendly.com/ke-lin-berkeley/30min?month=2024-10).
+Hi, this is Ke Lin. I am a 3rd year PhD student in Department of Physics, University of California at Berkeley. Please feel free to explore my homepage. If you find something interesting and want to discuss it with me, or collaborate with me on research, feel free to book a zoom meeting [here](https://calendly.com/ke-lin-berkeley/30min?month=2024-10).
 
 News
 ======
+
+\[08/2026\] I am honor to be a Diversity & Community Fellow at UC Berkeley Graduate Division!
+
 \[09/2025\] New paper [**Observation of Two-dimensional Branched Flow of Light**](https://doi.org/10.1103/gyqw-d17z) was published in _Physical Review Letter_
+
+\[09/2024\] I am honor to be a MPS scholar mentor in mathematical and physical science division at UC Berkeley!
 
 \[09/2024\] Work as Graduate Student Researcher at [Prof. Dan Stamper-Kurn's Group](https://ultracold.physics.berkeley.edu/).
 
